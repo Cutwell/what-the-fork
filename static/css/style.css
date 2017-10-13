@@ -5,12 +5,17 @@ body {
 	width: 100%;
     font-family: 'Josefin Sans', sans-serif;
     background-color: #fff;
+	overflow-x: hidden;
 }
 a {
+	padding: 0.2em;
     text-decoration: none;
 }
 a:hover {
     text-decoration: underline;
+}
+a:active {
+	color: #fff;
 }
 br {
     line-height: 3em;
@@ -26,7 +31,7 @@ br {
 	text-align: center;
 }
 .top {
-	background-color: #ffffa7;
+	background-color: #36cedc;
 }
 .bottom {
 	background-color: #fff;
@@ -64,7 +69,16 @@ br {
     font-size: 4em;
     padding: 0.2em;
 	text-align: center;
+	height: 3em;
+	color: #000;
 }
 .new-pun {
     cursor: pointer;
+}
+.fa-twitter {
+	cursor: pointer;
+	color: #00aced;
+}
+.fa-twitter:hover {
+	background-color: #fff;
 }
