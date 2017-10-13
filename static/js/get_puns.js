@@ -10,12 +10,12 @@ $(document).ready(function (){
                 }
                 var pun = contribution.substring(contribution.lastIndexOf("[")+1, contribution.lastIndexOf("]"));
                 var url = contribution.substring(contribution.lastIndexOf("(")+1, contribution.lastIndexOf(")"));
-                pun_list.concat("<a href="+url+">"+pun+"</a>");
+                pun_list.push(["<a href="+url+">"+pun+"</a>"]);
             });
-            var pun_count = wtfork_md.length - 2;
+            var pun_count = pun_list.length;
             $("#pun-count").html(pun_count+" Forking Puns:");
             var rand_pun = pun_list[Math.floor(Math.random() * pun_list.length)];
-            $("#new-pun").html(rand_pun);
+            $(".pun-item").html(rand_pun);
         }
     );
 });

@@ -61,10 +61,9 @@ br {
     padding: 1em;
 }
 .pun-item {
-    font-size: 2em;
-    float:left;
+    font-size: 4em;
     padding: 0.2em;
-    padding-right: 2em;
+	text-align: center;
 }
 .new-pun {
     cursor: pointer;
