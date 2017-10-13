@@ -1,0 +1,29 @@
+<html lang="en">
+
+	<head>
+		<title>What The Fork?</title>
+        <link rel="icon" href="static/img/favicon.png">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+
+        <script src="static/js/get_puns.js"></script>
+        <script src="static/js/new_pun.js"></script>
+		<link rel="stylesheet" href="static/css/style.css">
+	</head>
+
+	<body>
+		<div class="fill top">
+			<img class="center banner" src="static/img/wtforkbanner.png">
+			<p class="center repo-desc"> Add your Forking funny puns for an easy <a href="https://hacktoberfest.digitalocean.com/">#Hacktoberfest</a> pull request</p><br />
+			<a class="center repo-link" href="https://github.com/Cutwell/What-The-Fork"> Instructions </a>
+		</div>
+
+		<div class="fill bottom">
+			<h1 class="center pun-title" id="pun-count"></h1>
+            <p class="pun-item" id="new-pun"></p>
+            <a class="center repo-link new-pun" onclick="document.location.reload(true)"> New Pun </a>
+		</div>
+	</body>
+
+</html>
