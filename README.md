@@ -6,7 +6,7 @@ Add your Forking funny puns
 ---
 
 ### Contributing
-Fork this project and add your fork-related pun + a profile link to the list below, then make a Pull Request to add your contribution to this repository like so...
+Fork this project and add your fork-related pun(s?) + a profile link to the list below, then make a Pull Request to add your contributions to this repository like so...
 
 Note: Fork-puns including profanity will be deleted.
 
@@ -26,3 +26,7 @@ Note: Fork-puns including profanity will be deleted.
  - [May the Fork be with you](https://github.com/wouterjanson)
  - [Fork yeah!](https://github.com/gregorymarchese)
  - [That's Forked Up!](https://github.com/gregorymarchese)
+ - [These aren't the droids you are looking fork](https://github.com/vjuneja)
+ - [Fork Ro Dah!](https://github.com/tomsotte)
+ - [Get me a fork'n knife please](https://github.com/thatguywiththatname)
+ - [Go fork yourself](https://github.com/raynescc)
