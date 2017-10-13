@@ -24,3 +24,5 @@ Note: Fork-puns including profanity will be deleted.
  - [Some things are so forking stupid](https://github.com/RajPathare)
  - [Stay calm and fork on!](https://github.com/rmartin5)
  - [May the Fork be with you](https://github.com/wouterjanson)
+ - [Fork yeah!](https://github.com/gregorymarchese)
+ - [That's Forked Up!](https://github.com/gregorymarchese)
