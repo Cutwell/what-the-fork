@@ -25,3 +25,5 @@ Note: Fork-puns including profanity will be deleted.
  - [Stay calm and fork on!](https://github.com/rmartin5)
  - [May the Fork be with you](https://github.com/wouterjanson)
  - [Fork Ro Dah!](https://github.com/tomsotte)
+ - [Get me a fork'n knife please](https://github.com/thatguywiththatname)
+ - [Go fork yourself](https://github.com/raynescc)
