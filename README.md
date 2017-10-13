@@ -2,7 +2,7 @@
 Add your Forking funny puns
 
 ---
-![]()
+![What-The-Fork](static/img/wtforkbanner.png "What-The-Fork")
 ---
 
 ### Contributing
