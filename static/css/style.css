@@ -40,6 +40,7 @@ br {
 .banner {
 	height: 18.75em;
 	width: 50em;
+	padding: 1em;
 }
 .repo-desc {
     font-size: 2em;
