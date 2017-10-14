@@ -48,4 +48,5 @@ Note: Fork-puns including profanity will be deleted.
  - [Fork lifting](https://github.com/NicoPennec)
  - [Zero forks given](https://github.com/kbeflo)
  - [What the fork is for dinner?](https://github.com/ganes1410)
-
+ - [SNAFU - situation normal, all forked up](https://githib.com/ablewhite)
+ - [All your fork are belong to us](https://github.com/wouterjanson)
