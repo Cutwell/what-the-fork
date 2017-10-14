@@ -24,6 +24,7 @@ Note: Fork-puns including profanity will be deleted.
  - [Fork you I won't do what you tell me!](https://github.com/Cutwell)
  - [Fork my life](https://github.com/gerd2002)
  - [Sooner or later, we all encounter a fork in our lives](https://github.com/Zumza123/)
+ - [LMFFO - Laugh My Forking Fork Out](https://github.com/IOAyman)
  - [Forkin' add me](https://github.com/Charllo)
  - [Fork you!](https://github.com/gerd2002)
  - [Fork happens](https://github.com/rkruk)
