@@ -21,6 +21,7 @@ Note: Fork-puns including profanity will be deleted.
 ### Puns
  - [Fork off](https://github.com/Cutwell)
  - [What the fork?](https://github.com/Cutwell)
+ - [Go the fork to sleep](https://github.com/Cutwell)
  - [Fork you I won't do what you tell me!](https://github.com/Cutwell)
  - [Fork my life](https://github.com/gerd2002)
  - [Sooner or later, we all encounter a fork in our lives](https://github.com/Zumza123/)
