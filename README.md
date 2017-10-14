@@ -47,4 +47,5 @@ Note: Fork-puns including profanity will be deleted.
  - [Forking sheet](https://github.com/sanik90)
  - [Fork lifting](https://github.com/NicoPennec)
  - [Zero forks given](https://github.com/kbeflo)
+ - [SNAFU - situation normal, all forked up](https://githib.com/ablewhite)
  - [All your fork are belong to us](https://github.com/wouterjanson)
