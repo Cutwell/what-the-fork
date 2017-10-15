@@ -6,14 +6,16 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
         <script src="static/js/get_puns.js"></script>
 		<link rel="stylesheet" href="static/css/style.css">
+		<link rel="stylesheet" href="static/css/hover.css">
 	</head>
 
 	<body>
 		<div class="fill top">
-			<img class="center banner" src="static/img/wtforkbanner.png">
+			<img class="center banner" id="easter-egg">
 			<p class="center repo-desc"> Add your fork-related puns for an easy <a href="https://hacktoberfest.digitalocean.com/">#Hacktoberfest</a> pull request!</p><br />
 			<a class="center repo-link" href="https://github.com/Cutwell/What-The-Fork"> Instructions </a>
 		</div>
@@ -21,6 +23,7 @@
 		<div class="fill bottom">
 			<h1 class="center pun-title" id="pun-count"></h1><br />
             <p class="center pun-item" id="new-pun"></p><br />
+			<p class="center tweet-icon"><a class="fa fa-twitter fa-2x hvr-icon-up" title="Share on Twitter!" onclick="window.open('https://twitter.com/home?status=What%20the%20fork?%20%22'+$('#new-pun').text()+'%22%20https%3A//cutwell.github.io/What-The-Fork/%20%23Hacktoberfest%20%23WhatTheFork');"></a></p><br />
             <a class="center repo-link new-pun" onclick="document.location.reload(true)"> New Pun </a>
 		</div>
 	</body>
