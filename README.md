@@ -54,3 +54,7 @@ Note: Fork-puns including profanity will be deleted.
  - [SNAFU - situation normal, all forked up](https://githib.com/ablewhite)
  - [All your fork are belong to us](https://github.com/wouterjanson)
  - [So long and thanks for all the forks!](https://github.com/KatSaldivar)
+ - [Get the fork outta here!](https://github.com/AshBardhan)
+ - [Github Motherforker! Do you speak it?](https://github.com/AshBardhan)
+ - [Forkive, but never Forket](https://github.com/AshBardhan)
+ - [Uptown fork gon' give it to ya](https://github.com/AshBardhan)
