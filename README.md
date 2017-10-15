@@ -55,3 +55,7 @@ Note: Fork-puns including profanity will be deleted.
  - [All your fork are belong to us](https://github.com/wouterjanson)
  - [So long and thanks for all the forks!](https://github.com/KatSaldivar)
  - [This is a mugging. Now fork it over!](https://github.com/shikhar96)
+ - [Get the fork outta here!](https://github.com/AshBardhan)
+ - [Github Motherforker! Do you speak it?](https://github.com/AshBardhan)
+ - [Forkive, but never Forket](https://github.com/AshBardhan)
+ - [Uptown fork gon' give it to ya](https://github.com/AshBardhan)
