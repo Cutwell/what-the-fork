@@ -67,5 +67,5 @@ Note: Fork-puns including profanity will be deleted.
  - [Look at all these forks I give](https://github.com/DugTrio91)
  - [Spider-man and the Fantastic Fork](https://github.com/xit4)
  - [The weather is fork-ast to be great! Lots of punshine.](https://github.com/licsth)
- - [I Forking love life] (https://github.com/mgnc2867)
- - [When you come to a Fork in the road... Take it!] (https://github.com/mgnc2867)
+ - [I Forking love life](https://github.com/mgnc2867)
+ - [When you come to a Fork in the road... Take it!](https://github.com/mgnc2867)
