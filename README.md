@@ -88,6 +88,7 @@ Note: Fork-puns including profanity will be deleted.
  - [Are you forking kidding me!](https://github.com/WindThrownLogic)
  - [That knife performance was very sharp but that fork did everything prong.](https://github.com/Milleus)
  - [Accept my forking pull request! #hacktoberfest](https://github.com/laurendimitra)
+ - [When life gives you forks, make.... ehh fork it.](https://github.com/wprzyb)
  - [One small fork for man, one giant forking for mankind] (https://github.com/sanushen)
  - [Why the fork am i forking this](https://github.com/rmaurya757)
  - [Good Night, and Good Fork #hacktoberfest](https://github.com/Archie22is)
