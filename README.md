@@ -89,3 +89,4 @@ Note: Fork-puns including profanity will be deleted.
  - [That knife performance was very sharp but that fork did everything prong.](https://github.com/Milleus)
  - [Accept my forking pull request! #hacktoberfest](https://github.com/laurendimitra)
  - [Good Night, and Good Fork #hacktoberfest](https://github.com/Archie22is)
+ - [If you have anything staged, commit now or stash forever](https://github.com/9tails1)
