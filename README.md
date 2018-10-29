@@ -95,3 +95,4 @@ Note: Fork-puns including profanity will be deleted.
  - [If you have anything staged, commit now or stash forever](https://github.com/9tails1)
  - [To fork or not to fork, that is the question](https://github.com/arjunnaha)
  - [Fork Chop](https://github.com/jilliankeenan)
+ - [I'd Fork That!](https://github.com/jasonwatkins)
