@@ -94,6 +94,7 @@ Note: Fork-puns including profanity will be deleted.
  - [Good Night, and Good Fork #hacktoberfest](https://github.com/Archie22is)
  - [If you have anything staged, commit now or stash forever](https://github.com/9tails1)
  - [To fork or not to fork, that is the question](https://github.com/arjunnaha)
+ - ["WHAT'S IN THE FOOOOORK?!" -Fork Pitt](https://github.com/terrancecorley)
  - [Fork Chop](https://github.com/jilliankeenan)
  - [This is forking Thailand](github.com/ows-ali)
  - [Fork is coming! Watching Game of Forks #GoF](https://github.com/OhmSainz)
