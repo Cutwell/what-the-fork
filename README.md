@@ -95,5 +95,7 @@ Note: Fork-puns including profanity will be deleted.
  - [If you have anything staged, commit now or stash forever](https://github.com/9tails1)
  - [To fork or not to fork, that is the question](https://github.com/arjunnaha)
  - [Fork Chop](https://github.com/jilliankeenan)
+ - [Un-forkin'-believable.](https://github.com/zotamias)
+ - [Stick a fork in me, I'm done!](https://github.com/zotamias)
  - [Fork me in the goat ASP](https://github.com/endless7188)
  - [Stay calm and fork on](https://github.com/billywongstuy)
