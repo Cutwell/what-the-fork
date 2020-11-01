@@ -99,11 +99,12 @@ Note: Fork-puns including profanity will be deleted.
  - [This is forking Thailand](github.com/ows-ali)
  - [Fork is coming! Watching Game of Forks #GoF](https://github.com/OhmSainz)
  - [I can't think of a single Forking pun!](https://github.com/FelipeDaCosta)
- - [Forktoberfest] (https://github.com/pinapali)
+ - [Forktoberfest](https://github.com/pinapali)
  - [Fork-man](https://github.com/gapercoco)
  - [Un-forkin'-believable.](https://github.com/zotamias)
  - [Stick a fork in me, I'm done!](https://github.com/zotamias)
  - [Fork me in the goat ASP](https://github.com/endless7188)
  - [Stay calm and fork on](https://github.com/billywongstuy)
  - [Why the fork you lieing?](https://github.com/adlyloukil)
+ - [Fork it, Pull it, Merge it, Squash it](https://github.com/tomaszbawors)
  
