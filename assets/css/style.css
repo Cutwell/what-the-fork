@@ -21,7 +21,8 @@ br {
     line-height: 3em;
 }
 .fill {
-	height: 100%;
+    /* almost fill height, show 10% of bottom so its not hidden*/
+	height: 90%;
 	width: 100%;
 }
 .center {
