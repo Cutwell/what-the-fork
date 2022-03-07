@@ -1,13 +1,10 @@
-# Fork-Puns
+![What-The-Fork](static/img/wtforkbanner.png "What-The-Fork")
+
 Add your Forking funny puns
 
 Go check out the website [here](https://cutwell.github.io/What-The-Fork/) to get a random fork pun (or an Easter egg ;D).
 
 Tweet your pun on the #Hacktoberfest and #WhatTheFork hashtags for... some forking banter.
-
----
-![What-The-Fork](static/img/wtforkbanner.png "What-The-Fork")
----
 
 ### Contributing
 Fork this project and add your fork-related pun(s?) + a profile link to the list below, then make a Pull Request to add your contributions to this repository like so...
