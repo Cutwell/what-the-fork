@@ -113,3 +113,4 @@ Note: Fork-puns including profanity will be deleted.
  - [Stay calm and fork on](https://github.com/billywongstuy)
  - [Why the fork you lieing?](https://github.com/adlyloukil)
  - [Fork it, Pull it, Merge it, Squash it](https://github.com/tomaszbawors)
+ - [It' Forking Hacktober](https://github.com/as-hsm53)
